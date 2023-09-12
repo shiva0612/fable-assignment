@@ -1,0 +1,7 @@
+{
+    "broker":"kafka:9092",
+    "topic":"log-server",
+    "serverPort":"8080",
+    "maxSize":30,
+    "maxTimeAllowed":10
+}

@@ -1,0 +1,10 @@
+{
+    "broker":"kafka:9092",
+    "topic":"log-server",
+    "dbHost":"postgres",
+    "dbPort":"5432",
+    "dbUser":"shiva",
+    "dbPsw":"0612",
+    "dbName":"shiva",
+    "logLevel":"info"
+}
